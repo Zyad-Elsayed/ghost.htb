@@ -11,4 +11,4 @@ pip install requests pwn
 ```
 python Bruter.py
 ```
-[![asciicast](https://asciinema.org/a/vPmYDwESFIWALyGt7gHJL2qzu.svg)](https://asciinema.org/a/vPmYDwESFIWALyGt7gHJL2qzu)
+[![asciicast](https://asciinema.org/a/mwhh1d9HWpWUbpJqo3mhMqn8X.svg)](https://asciinema.org/a/mwhh1d9HWpWUbpJqo3mhMqn8X)
